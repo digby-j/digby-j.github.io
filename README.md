@@ -8,7 +8,7 @@ Welcome to my Public Portfolio, I'm glad you've stopped by! 👋
 ## Introduction
 
 This repo aims to display my personal portfolio hosted on GitHub Pages.
-You can check out the page <a href link="https://digby-j.github.io/">here</a>
+You can check out the page [here](https://digby-j.github.io/)</a>
 ## Installation
 
 Thanks for taking interest in my portfolio! If you would like to download this content please feel free, instructions are below! If you wish to fork this content please consider starring the reop too!
@@ -27,7 +27,8 @@ I hope to bring more functionalisty to the portfolio page, ideally utilising rea
 ![](https://img.shields.io/github/license/digby-j/digby-j.github.io)
 
 ### Please read the MIT License here:
-<a href src="https://github.com/digby-j/jake-digby.github.io/blob/main/LICENSE">MIT License</a>
+[License](https://github.com/digby-j/jake-digby.github.io/blob/main/LICENSE)
+
 
 ## Contact Information
 ### Let's Connect
