@@ -17,7 +17,7 @@ Please ensure the files are all downladed into the same root direcotry, this wil
 
 ## Languages Used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digby-j&exclude_repo=digby-j,eyes,shopping-cart&layout=compact)](https://github.com/digby-j/eyes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digby-j&exclude_repo=digby-j,PacMan,eyes,Shopping-Cart&layout=compact)](https://github.com/digby-j/eyes/github-readme-stats)
 
 ## Road Map
 
