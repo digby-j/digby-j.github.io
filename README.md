@@ -17,7 +17,7 @@ Please ensure the files are all downladed into the same root direcotry, this wil
 
 ## Languages Used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digby-j&exclude_repo=digby-j,PacMan,eyes,Shopping-Cart&layout=compact)](https://github.com/digby-j/eyes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digby-j&exclude_repo=digby-j,PacMan,eyes,Shopping-Cart&layout=compact)](https://github.com/digby-j/digby-j.github.io/github-readme-stats)
 
 ## Road Map
 
@@ -27,7 +27,7 @@ I hope to bring more functionalisty to the portfolio page, ideally utilising rea
 ![](https://img.shields.io/github/license/digby-j/digby-j.github.io)
 
 ### Please read the MIT License here:
-[License](https://github.com/digby-j/jake-digby.github.io/blob/main/LICENSE)
+[License](https://github.com/digby-j/digby-j.github.io/blob/main/LICENSE)
 
 
 ## Contact Information
