@@ -8,7 +8,7 @@ Welcome to my Public Portfolio, I'm glad you've stopped by! 👋
 ## Introduction
 
 This repo aims to display my personal portfolio hosted on GitHub Pages.
-You can check out the page <a href link="https://digby-j.github.io/jake-digby.github.io/">here</a>
+You can check out the page <a href link="https://digby-j.github.io/">here</a>
 ## Installation
 
 Thanks for taking interest in my portfolio! If you would like to download this content please feel free, instructions are below! If you wish to fork this content please consider starring the reop too!
@@ -17,7 +17,7 @@ Please ensure the files are all downladed into the same root direcotry, this wil
 
 ## Languages Used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digby-j&exclude_repo=digby-j,eyes&layout=compact)](https://github.com/digby-j/eyes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digby-j&exclude_repo=digby-j,eyes,shopping-cart&layout=compact)](https://github.com/digby-j/eyes/github-readme-stats)
 
 ## Road Map
 

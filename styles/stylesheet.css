@@ -123,7 +123,6 @@ h3 { font-size: var(--fs-h3) }
 }
 
 /* Header */
-nav { display: none;}
 
 /* Intro section */
 
@@ -293,7 +292,7 @@ nav { display: none;}
     opacity: .75;
 }
 
-/* footer */
+/* Extra Footer Styling - out of Bootstrap */
 
 .footer {
     background: #111;
