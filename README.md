@@ -8,7 +8,11 @@ Welcome to my Public Portfolio, I'm glad you've stopped by! 👋
 ## Introduction
 
 This repo aims to display my personal portfolio hosted on GitHub Pages.
-You can check out the page [here](https://digby-j.github.io/)</a>
+You can check out the page [here](https://digby-j.github.io/)
+
+Thanks for your Interest! 😎
+- You can also check out my other projects and about me [here](https://github.com/digby-j)
+
 ## Installation
 
 Thanks for taking interest in my portfolio! If you would like to download this content please feel free, instructions are below! If you wish to fork this content please consider starring the reop too!
