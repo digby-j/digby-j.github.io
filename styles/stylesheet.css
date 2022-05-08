@@ -283,7 +283,7 @@ h3 { font-size: var(--fs-h3) }
 }
 
 .about-me__social-list__item {
-    margin: 0 .5em;
+    margin: 0 1em;
 }
 
 .about-me__social-list__link {
@@ -324,6 +324,36 @@ h3 { font-size: var(--fs-h3) }
 .portfolio__item:focus .portfolio__img {
     transform: scale(1.2);
     opacity: .75;
+}
+
+/* Eyes - Portfolio*/
+.eyes {
+    background-color: var(--clr-dark);
+    background-image: url(../img/Eyes/eyes-oneeye.png);
+    background-size: cover;
+    background-blend-mode: multiply;
+    color: var(--clr-light);
+    text-align: center;
+}
+
+/* PacMan - Portfolio*/
+.pacman {
+    background-color: var(--clr-dark);
+    background-image: url(../img/portfolio-img/pacman-portfolio-2.png);
+    background-size: cover;
+    background-blend-mode: multiply;
+    color: var(--clr-light);
+    text-align: center;
+}
+
+/* Bus - Portfolio*/
+.bus {
+    background-color: var(--clr-dark);
+    background-image: url(../img/portfolio-img/bus-tracker-portfolio-3.png);
+    background-size: cover;
+    background-blend-mode: multiply;
+    color: var(--clr-light);
+    text-align: center;
 }
 
 /* Extra Footer Styling - out of Bootstrap */
