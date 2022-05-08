@@ -216,6 +216,9 @@ h3 { font-size: var(--fs-h3) }
     }
 }
 
+
+/* About Me */
+
 .about-me {
     max-width: 1000px;
     margin: 0 auto;
@@ -255,6 +258,37 @@ h3 { font-size: var(--fs-h3) }
         position: relative;
         z-index: 2;
     }
+}
+
+.about-me__link {
+    font-weight: var(--fw-bold);
+}
+
+.about-me__link:hover,
+.about-me__social-list__link:hover {
+    opacity: .7;
+}
+
+.about-me__link:hover {
+    text-decoration: underline;
+}
+
+.about-me__social-list {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 0em 0 0;
+    padding: 1em;
+
+}
+
+.about-me__social-list__item {
+    margin: 0 .5em;
+}
+
+.about-me__social-list__link {
+    padding:  1em;
+    color: var(--clr-accent);
 }
 
 /* My Work */
